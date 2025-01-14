@@ -96,6 +96,14 @@ Example Results
 ![image](https://github.com/user-attachments/assets/4e54a13b-f070-4ef4-9fe5-ba41b50b53ea)
 
 
+### Explanation:
+- Replace `https://github.com/user-attachments/assets/xyz` with the actual path to your image hosted on GitHub or any other platform.
+- Each image is embedded using the `![image alt text](URL)` format.
+
+Once you've updated your `README.md` with these images, push the changes to your repository to make them visible.
+
+Let me know if you need any further assistance!
+
 markdown
 Copy code
 
